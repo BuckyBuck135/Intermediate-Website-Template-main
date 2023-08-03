@@ -1,0 +1,13 @@
+{
+	"name": "Romain Plombier",
+	"email": "romain@plombier.com",
+	"phoneForTel": "555-779-4407",
+	"phoneFormatted": "(555) 779-4407",
+	"address": {
+		"lineOne": "1, rue Pasteur",
+		"city": "Mazamet",
+		"zip": "81200",
+		"mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
+	},
+	"domain": "www.romain-plombier.com"
+}
