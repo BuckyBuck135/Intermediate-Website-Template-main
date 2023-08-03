@@ -241,3 +241,15 @@ up as so in the frontend.
     - Find "Registration Preferences", click "Edit Settings" and set registration from _Public_ to _Invite Only_
     - Find "Enable Providers" and add a provider. We recommend Google, so the client can login with Google in 1 click.
     - Find "Git Gateway" and enable it
+
+
+*** NOTES BY GEOFFREY
+
+- in admin/config.yml => changed paths
+# media_folder: "public/assets/images/blog" OUT
+# public_folder: "/assets/images/blog"  OUT
+media_folder: "public/assets/images/uploads" IN
+public_folder: "/assets/images/uploads" IN
+
+in public/blog => deleted all blog folders (placeholders)
+
